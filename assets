@@ -1,4 +1,5 @@
 const avatarFiles = [
+<img src="avatars/logo.png" alt="Logo">
   'assets/avatar1.png',
   'assets/avatar2.png',
   'assets/avatar3.png',
